@@ -137,3 +137,6 @@ This project, developed by **Bhavya  (Roll No. 2501350086)** at **K.R. Mangalam 
 
 -> Memory 
 ![alt text](image-3.png)
+
+-> Box in CPU Emulator
+![alt text](image-8.png)
